@@ -1,4 +1,7 @@
-# UNP_REGRESSION_PROJECT_WITH_PYTHON_DATASETNAME_ANALYSIS
+# UNP_REGRESSION_PROJECT_WITH_PYTHON_POSSUM_ANALYSIS
 
 DESCRIPTION: This project presents a comprehensive regression analysis of the Possum Morphometrics dataset to examine interrelationships among various anatomical measurements of possums. The study involved systematic data preprocessing, including imputation of missing values, detection and treatment of outliers, and standardization of categorical variables to ensure analytical consistency. Exploratory Data Analysis (EDA) was conducted to visualize data distributions, identify correlations, and understand feature interactions. Multiple regression models—Linear Regression, Decision Tree, and Random Forest—were developed to predict the age of possums based on other morphological traits such as head length, skull width, and tail length. Model performance was evaluated through statistical metrics including R², MAE, MSE, and RMSE. Among the tested models, Random Forest achieved superior predictive accuracy, effectively capturing complex non-linear patterns. The findings highlight the significance of key morphological predictors and demonstrate the role of machine learning in biological data interpretation.
-FILE PATH: https://drive.google.com/drive/folders/1eMeMNNg9pMKcSZBXnezj7SGz1DDK1D_J?usp=sharing
+
+PROJECT DASHBOARD IPYNB FILE:https://drive.google.com/file/d/1pyHv7PGKtNKNhAYBFuElUaM4uWfoVN7I/view?usp=sharing
+
+PROJECT DASHBOARD PDF FILE:https://drive.google.com/file/d/1l3SFvJ5S6GVkupDpJoMMHfaTJMyRdq5Z/view?usp=sharing
